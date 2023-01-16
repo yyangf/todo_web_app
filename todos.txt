@@ -1,4 +1,5 @@
 Read Novel
-Write ResumeUpload MXM file
+Write Resume
+Upload MXM file
 Upload MXM
 Reply and Organize Handshake
